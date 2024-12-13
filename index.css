@@ -22,13 +22,13 @@ align-items: center;
     align-items: center;
     width: 500px;
     height:250px ;
-    border-radius: 10%;
+    border-radius: 20px;
 
 }
 input{
 background-color: black;
 color: darkmagenta;
-border-radius: 20%;
+border-radius: 10px;
 width: 100px;
 height: 40px;
 }
